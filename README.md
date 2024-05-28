@@ -1,4 +1,5 @@
 # <div align="center"> Causality Enhanced Global-Local Graph Neural Network for Bioprocess Factor Forecasting </div>
+![image](https://github.com/SunZiYuee/CEGLo-GNN/blob/master/CEGLo-GNN.pdf)
 ## Requirements
 This work is based on [BasicTS](https://github.com/zezhishao/BasicTS) with `torch==1.10.0+cu111` and `easy-torch==1.2.10`. Other dependencies can be seen in `requirements.txt`.
 ## Train CEGLo-GNN
